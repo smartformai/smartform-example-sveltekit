@@ -1,4 +1,4 @@
-# SmartForm + SvelteKit
+# SvelteKit contact form — Formspree alternative with AI spam filtering
 
 Contact form for SvelteKit, posting JSON to SmartForm AI from a form action.
 
